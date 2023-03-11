@@ -17,6 +17,6 @@ User Signup and Login App built using React, React-Hook-Form and Redux Toolkit f
 
 ## Available Scripts
 
-1. Install all needed NPM packages by typing: `npm install` in the current directory terminal.
+1. Install all needed NPM packages by typing: `npm install` in the current directory's terminal.
 
 2. To Run the app type `npm run dev` in the terminal.
